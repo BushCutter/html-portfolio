@@ -1,0 +1,27 @@
+html {
+    background-color: black;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    color: white;
+    text-align: center;
+    align-items: center;
+}
+div > div {
+    border: 5px solid white;
+    padding: 10px;
+    width: 50%;
+    min-width: none;
+}
+img {
+    background-color: white;
+    border-radius: 100%;
+    width: 75%;
+    min-width: none;
+}
+
+h1 {
+    font-family: "Libre Baskerville";
+}
